@@ -1,0 +1,42 @@
+.listaF{
+    max-width: 800px;
+    margin: 14px auto;
+}
+
+.listaF article{
+    width: 100%;
+    background-color:white;
+    padding: 15px;
+    border-radius: 4px;
+}
+
+.listaF img{
+    width: 900px;
+    max-width: 100%;
+    max-height: 340px;
+    object-fit: cover;
+    display: block;
+    border-top-left-radius: 8px;
+    border-top-right-radius: 8px;
+}
+
+.listaF strong{
+    margin-bottom: 14px;
+    text-align: center;
+    font-size: 22px;
+    display: block;
+    
+}
+
+.listaF a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0px;
+    font-size: 25px;
+    text-decoration: none;
+    background-color: #0090CF;
+    color: white;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+}

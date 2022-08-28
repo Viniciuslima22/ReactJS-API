@@ -1,0 +1,43 @@
+.not-found{
+    font-family:initial;
+    width: 100%;
+    height: calc(100vh -60px);
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    max-width: 800px;
+    margin: 14px auto;
+   
+}
+
+.not-found a{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding: 10px 0px;
+    font-size: 25px;
+    text-decoration: none;
+    background-color:red;
+    color: white;
+    border-bottom-left-radius: 8px;
+    border-bottom-right-radius: 8px;
+    width: 100%;
+} 
+
+.not-found img{
+    
+        width: 900px;
+        max-width: 100%;
+        max-height: 340px;
+        object-fit: cover;
+        display: block;
+        border-top-left-radius: 8px;
+        border-top-right-radius: 8px;
+        margin-top: 200px;
+
+} 
+body{
+    background-color:
+    rgb(207, 207, 207);
+}
