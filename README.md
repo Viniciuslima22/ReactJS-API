@@ -5,8 +5,10 @@
 <h3>descrição:<h3/>
 Site de filmes utilizando React e API
 
-![ezgif com-gif-maker](https://user-images.githubusercontent.com/105254347/197365882-7a6229ff-a7dc-44cf-86bb-f28ce7a4d9dc.gif)
- 
+![ezgif com-gif-maker (1)](https://user-images.githubusercontent.com/105254347/197365979-9c23cb9e-deb0-436b-9d1c-bc25e26f893e.gif)
+
+
+
 
 <h3>Ferramentas utilizadas<h3/>
 <hr>
@@ -31,6 +33,10 @@ Site de filmes utilizando React e API
 
 * npx create-react-app my-app
 * npm start
+<hr>
+
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/105254347/197365882-7a6229ff-a7dc-44cf-86bb-f28ce7a4d9dc.gif)
+ 
 
 <hr>
  🌐  https://primeeflixx.netlify.app/
